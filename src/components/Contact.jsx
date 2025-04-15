@@ -18,7 +18,7 @@ function Contact() {
     const name = formData.get('name');
     const message = formData.get('message');
 
-    const mailtoLink = `mailto:sparjapati000@gmail.com?subject=Message%20from%20${encodeURIComponent(name)}&body=${encodeURIComponent(message)}`;
+    const mailtoLink = `mailto:nabinamallik2003@gmail.com?subject=Message%20from%20${encodeURIComponent(name)}&body=${encodeURIComponent(message)}`;
     window.location.href = mailtoLink;
   };
 
