@@ -28,7 +28,7 @@ function Footer() {
         <div className={copyright}>
           <span>&copy; {currentYear}</span>
           <span>reserved.</span>
-          <span>A Family of Love & Care.</span>
+          <span>|[ I Code ][ I Conquer ][ I Create ]|</span>
         </div>
       </div>
     </footer>

@@ -10,8 +10,8 @@ export const skills = [
             },
             {
                 id: 1.2,
-                name: "G0",
-                image: 'https://avatars.githubusercontent.com/u/4314092?s=200&v=4',
+                name: "Python",
+                image: 'https://www.python.org/static/community_logos/python-logo.png',
             },
 
             {
@@ -74,12 +74,7 @@ export const skills = [
                 id: 3.3,
                 name: "Express Js",
                 image: 'https://th.bing.com/th/id/OIP.1ji9NLQl3sOXktSoEYnt3wHaHa?pid=ImgDet&rs=1',
-            },
-            {
-                id: 3.4,
-                name: "Redux",
-                image: "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
-            },
+            }
 
         ]
     },
@@ -98,12 +93,6 @@ export const skills = [
                 name: "Tailwind CSS",
                 image: 'https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp',
             },
-            {
-                id: 4.4,
-                name: "Material UI",
-                image: 'https://avatars.githubusercontent.com/u/33663932?v=4',
-            },
-        
             {
                 id: 4.6,
                 name: "CSS",

@@ -1,36 +1,64 @@
 import BloodCheck from '../assets/BloodCheck.png'
-import full_stack_notes from '../assets/mine.jpg'
-import spotify_clone from '../assets/mine.jpg'
+import WebyChatRoom from '../assets/webychatroom.png'
+import LPGD from '../assets/lpgdetection.png'
+import AskMeAnything from '../assets/AskMeAnything.png'
+import CNSystem from '../assets/CampusNavigationSystem.png'
+import LEO from '../assets/LeoCubeSat.png'
 
 export const projects = [
-    
+
     {
         id: 0,
+        img: CNSystem,
+        skills: ["Python","Json"],
+        title: 'Campus Navigator System for KIST',
+        desc: 'A system that can help you navigate the campus using your location',
+        live: '/404',
+        github: 'https://github.com/thenabinamallik/SmartCampusNavigationSystemKIST.git'
+    },
+    {
+        id: 1,
+        img: WebyChatRoom,
+        skills: ["HTML", "CSS", "Javascript", "Firebase"],
+        title: 'Weby Chat Room',
+        desc: 'End to End Personal Chat Room using your secrete key',
+        live: 'https://webychatroom.netlify.app/',
+        github: 'https://github.com/thenabinamallik/WebyChatRoom.git'
+    },
+    {
+        id: 2,
+        img: LPGD,
+        skills: ["HTML", "CSS", "Javascript","IOT", "C++"],
+        title: 'LPG Detection and Aleart System unisg IOT',
+        desc: 'A fully automated system that can detect the LPG leakege and send aleart to the user',
+        live: 'https://lpg-detection.vercel.app/',
+        github: 'https://github.com/thenabinamallik/lpgDetection.git'
+    },
+    {
+        id: 3,
+        img: AskMeAnything,
+        skills: ["NextJS", "TailwindCSS"],
+        title: 'Ask Me Anything',
+        desc: 'An AI-Powered Search Engine which can answer any question you ask',
+        live: 'https://askmeanything-sigma.vercel.app/',
+        github: 'https://github.com/thenabinamallik/askmeanything.git'
+    },
+    {
+        id: 4,
         img: BloodCheck,
-        skills: ["Tailwind CSS", "React", "Javascript", "HTML", "CSS"],
+        skills: ["Python","Javascript", "HTML", "CSS"],
         title: 'BloodCheck',
         desc: 'Detect bloodgroup uging fingerprint patterns',
         live: "/404",
         github: 'https://github.com/thenabinamallik/BloodCheck.git',
-    // },
-    // {
-    //     id: 1,
-    //     img: full_stack_notes,
-    //     skills: ["Java", "DSA", "Javascript", "MERN", "Kotlin"],
-    //     title: 'Fullstack_developer ',
-    //     date: 'june 2022 - Present',
-    //     desc: 'A repo you need for Programming & Problem Solving. This is contains everthing you need to be full stack web developer with DSA.',
-    //     live: 'https://github.com/Dharmendra6944',
-    //     github: 'https://github.com/Dharmendra6944'
-    // },
-    // {
-    //     id: 2,
-    //     img: spotify_clone,
-    //     skills: ["Tailwind CSS", "React", "React Icons", "Vite", "NPM"],
-    //     title: 'Spotify Clone',
-    //     date: 'February 2024 - February 2024',
-    //     desc: 'Home and Search pages of Spotify. This was an assignment given during job hunting. Remember, many functionalities will not work, as it is just a frontend Tailwind CSS implementation.',
-    //     live: 'https://open.spotify.com/',
-    //     github: 'https://github.com/Dharmendra6944'
-    // }
+    },
+    {
+        id: 5,
+        img: LEO,
+        skills: ["Python","C++", "Arduino","HTML", "CSS", "Javascript", "IOT", "Firebase",],
+        title: 'Low Earth Orbit CubeSat and it\'s Ground Station',
+        desc: 'To study the earch\'s atmosphere and collect data using a CubeSat',
+        live: '/404',
+        github: '/404'
+    }
 ]
