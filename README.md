@@ -9,7 +9,6 @@ I'm a passionate **Full-Stack Developer** and **Creative Technologist** with a f
 - 🎨 **Creative Arts**: Animator and editor proficient in **Adobe Photoshop**, **Premiere Pro**, and **Audacity**.
 - 📱 **Mobile Development**: Building cross-platform apps using **React Native** with both **Expo** and **CLI**.
 - 🌐 **Web Development**: Crafting dynamic web applications with **Next.js**, **Flask**, and **Selenium**.
-- 🤖 **AI & ML**: Exploring the realms of **Machine Learning** to create intelligent solutions.
 - 🌐 **IoT & Networking**: Integrating hardware with software, focusing on **IoT** devices and network systems.
 
 ---
@@ -19,20 +18,12 @@ I'm a passionate **Full-Stack Developer** and **Creative Technologist** with a f
 ### 🎨 Creative Tools
 - **Adobe Photoshop**: Image editing and graphic design  
 - **Adobe Premiere Pro**: Video editing and post-production  
-- **Audacity**: Audio editing and sound design  
+- **Audacity**: Audio editing and sound design
 
 ### 📱 Mobile & Web Development
 - **React Native (Expo & CLI)**: Cross-platform mobile app development  
-- **Next.js**: Server-side rendering and static site generation for React  
+- **React.js**: Static site generation  
 - **Flask**: Lightweight web application framework in Python  
-- **Selenium**: Automated web testing and browser automation  
-
-### 🤖 AI, Machine Learning & Data Analytics
-- **TensorFlow**: Machine learning framework for building models  
-- **Scikit-learn**: Tools for data mining and data analysis  
-- **Pandas**, **NumPy**: Data manipulation, analytics & numerical computing  
-- **Matplotlib & Seaborn**: Data visualization and exploratory analysis  
-- **Data Analytics**: End-to-end analysis pipelines with Python  
 
 ### 🌐 IoT & Networking
 - **Arduino**: Microcontroller programming for IoT devices  
@@ -41,21 +32,9 @@ I'm a passionate **Full-Stack Developer** and **Creative Technologist** with a f
 
 ---
 
-## 📂 Featured Projects <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="30">
-
-Here are some of my notable projects:
-
-- 🔌 **Smart Home Automation**: An IoT project to control home appliances remotely  
-- 🎥 **AI-Powered Video Editor**: A web application integrating AI for video editing tasks  
-- 🛍️ **E-commerce Mobile App**: A cross-platform mobile application built with React Native  
-
----
-
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
