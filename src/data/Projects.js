@@ -70,4 +70,5 @@ export const projects = [
         desc: "A personal landing website for IT Startups",
         live: 'https://quickpixelitsollution.vercel.app/',
         github: 'https://github.com/thenabinamallik/QuickPixel'
+    }
 ]
