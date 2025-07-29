@@ -13,7 +13,6 @@ export const skills = [
                 name: "Python",
                 image: 'https://www.python.org/static/community_logos/python-logo.png',
             },
-
             {
                 id: 1.4,
                 name: 'Java',
@@ -31,7 +30,7 @@ export const skills = [
     },
     {
         id: 2,
-        title: "Databases & Cloud",
+        title: "Databases",
         skill: [
             {
                 id: 2.1,
@@ -42,17 +41,6 @@ export const skills = [
                 id: 2.2,
                 name: "MongoDB",
                 image: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
-            },
-            {
-                id: 2.3,
-                name: "MySQL",
-                image: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
-            },
-
-            {
-                id: 2.5,
-                name: 'AWS',
-                image: "https://www.econsys.com/wp-content/uploads/2020/10/aws-logo.jpg",
             },
         ]
     },
@@ -75,6 +63,11 @@ export const skills = [
                 name: "Express Js",
                 image: 'https://th.bing.com/th/id/OIP.1ji9NLQl3sOXktSoEYnt3wHaHa?pid=ImgDet&rs=1',
             }
+            ,
+            {
+                id: 3.4,
+                name: "React Native",
+                image: 'https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png'
 
         ]
     },
@@ -82,11 +75,10 @@ export const skills = [
         id: 4,
         title: "UI",
         skill: [
-
             {
                 id: 4.2,
-                name: "Bootstrap",
-                image: "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
+                name: "Figma",
+                image: "https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/b8d00b2e389e3a38f115ea00f7dc3dff3ef4f337/dbc32aa496f21ffa8508a4f6432d1e6c6f76e3b1"
             },
             {
                 id: 4.3,
@@ -152,6 +144,15 @@ export const skills = [
                 image:
                     "https://www.svgrepo.com/show/354202/postman-icon.svg",
             },
+            {
+                id: 6.4,
+                name: "MS Office",
+                image: "https://i.pinimg.com/736x/93/6d/6a/936d6adc03927c1e2b386060e222c918.jpg"
+            },
+            {
+                id: 6.5,
+                name: "Arduino IDE",
+                image : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/768px-Arduino_IDE_logo.svg.png?20230510165732"
 
         ]
     }
