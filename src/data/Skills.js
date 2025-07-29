@@ -23,9 +23,6 @@ export const skills = [
                 name: "JavaScript",
                 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
             },
-
-        
-
         ]
     },
     {
@@ -153,6 +150,7 @@ export const skills = [
                 id: 6.5,
                 name: "Arduino IDE",
                 image : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/768px-Arduino_IDE_logo.svg.png?20230510165732"
+            }
 
         ]
     }
