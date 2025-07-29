@@ -5,6 +5,7 @@ import AskMeAnything from '../assets/AskMeAnything.png'
 import CNSystem from '../assets/CampusNavigationSystem.png'
 import LEO from '../assets/LeoCubeSat.png'
 
+
 export const projects = [
 
     {
@@ -60,5 +61,13 @@ export const projects = [
         desc: 'To study the earch\'s atmosphere and collect data using a CubeSat',
         live: '/404',
         github: '/404'
-    }
+    },
+    {
+        id: 6,
+        img: "https://quickpixelitsollution.vercel.app/assets/minecraft-office-hero-DcIwE7gU.jpg",
+        skills: ["React JS", "Tailwind", "UI", 'TypeScript'],
+        title: 'Quick PIxel IT Solution',
+        desc: "A personal landing website for IT Startups",
+        live: 'https://quickpixelitsollution.vercel.app/',
+        github: 'https://github.com/thenabinamallik/QuickPixel'
 ]
