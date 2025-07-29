@@ -51,11 +51,6 @@ export const skills = [
                 image: "https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png",
             },
             {
-                id: 3.2,
-                name: "Next JS",
-                image: "https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png",
-            },
-            {
                 id: 3.3,
                 name: "Express JS",
                 image: "https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png",
