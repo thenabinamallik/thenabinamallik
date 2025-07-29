@@ -5,9 +5,9 @@ export const Bio = {
         "Android Developer.",
         "Creative Technologist.",
         "IoT + AI Explorer.",
-        "Animator / Editor / Designer.",
+        "Gammer / Editor / Designer.",
     ],
-    description: "I'm a passionate Full-Stack Developer and Creative Technologist with a flair for blending code with creativity. My journey encompasses Mobile Development, Web Development, AI & ML, and IoT & Networking. I strive to make meaningful impacts by combining my love for technology and creativity in various domains.",
+    description: "I'm a passionate Full-Stack Developer and Creative Technologist with a flair for blending code with creativity. My journey encompasses Mobile Development, Web Development, and IoT & Networking. I strive to make meaningful impacts by combining my love for technology and creativity in various domains.",
     resume: "https://drive.google.com/uc?export=download&id=1WPmToMIqnwPpnckS7vqrjhLcaj4ghAd3", // Replace with your actual resume link
     github: "https://github.com/thenabinamallik", // Updated GitHub link
     linkedin: "https://www.linkedin.com/in/thenabinamallik", // Updated LinkedIn link
