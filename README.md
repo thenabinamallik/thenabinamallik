@@ -7,6 +7,10 @@
 
 ---
 
+[![An image of @nabinamallik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nabinamallik)](https://holopin.io/@nabinamallik)
+
+---
+
 ## 🚀 About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 I'm an **innovative and detail-oriented Full-Stack Developer** and **Creative Technologist** passionate about merging software with hardware and creativity.  
