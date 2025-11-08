@@ -1,3 +1,5 @@
+<h1 align="left"> Earned Badges </h1>
+
 [![An image of @nabinamallik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nabinamallik)](https://holopin.io/@nabinamallik)
 
 ---
