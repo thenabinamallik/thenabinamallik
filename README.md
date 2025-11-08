@@ -64,3 +64,5 @@ Git, GitHub, Postman, VS Code, AutoCAD, Blender, MS Office
 
 ## ⚡ Fun Fact
 I don’t drink, but I know the thing! 😉
+
+[![An image of @nabinamallik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nabinamallik)](https://holopin.io/@nabinamallik)
