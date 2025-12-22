@@ -25,7 +25,7 @@ I specialize in **AI-powered development**, **IoT systems**, and **real-time web
 ## 🧠 Skills & Expertise <img src="https://media.giphy.com/media/iILp8LdqRkObscEYcl/giphy.gif" width="30">
 
 ### 💻 Programming & Frameworks
-- **Languages:** JavaScript, Python,Rust,Java,C/C++ (for IoT)
+- **Languages:** JavaScript, Python, Rust, Java, C/C++ (for IoT)
 - **Frontend:** React.js, Tailwind CSS, HTML, CSS, Selenium, React Native (Expo & CLI)
 - **Backend:** Node.js, Express.js, Flask, MongoDB
 - **AI Tools:** ChatGPT, Google Gemini, Lovable, Blackbox
