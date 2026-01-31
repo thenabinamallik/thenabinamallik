@@ -342,14 +342,6 @@ A hospitality website developed through a structured team workflow covering plan
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenabinamallik&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thenabinamallik)
