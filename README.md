@@ -4,7 +4,7 @@
 
 ---
 
-<h1 align="left">Hi there! I'm Nabina 👋</h1>
+<h1 align="left">Hi there! I'm Nabin 👋</h1>
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Full-Stack+Developer;IoT+%26+Embedded+Engineer;AI-Driven+Problem+Solver;Creative+Technologist" alt="Typing SVG" />
