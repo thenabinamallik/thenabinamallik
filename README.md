@@ -242,9 +242,9 @@ STACK   : PYTHON • STREAMLIT • DATA ANALYSIS • AI
 Interactive application for exploring stock-related information through data analysis, visualization, and AI-assisted workflows.
 
 ```text
-MARKET DATA
-     │
-     ▼
+  MARKET DATA
+       │
+       ▼
 ┌──────────────┐
 │ DATA ENGINE  │
 └──────┬───────┘
@@ -284,13 +284,13 @@ An AI-assisted platform designed around automated website generation and applica
                    │
                    ▼
           ┌─────────────────┐
-          │     AI ENGINE   │
+          │    AI ENGINE    │
           └────────┬────────┘
                    │
                    ▼
           ┌─────────────────┐
-          │ APPLICATION     │
-          │ GENERATION      │
+          │   APPLICATION   │
+          │   GENERATION    │
           └────────┬────────┘
                    │
           ┌────────┴────────┐
@@ -368,7 +368,7 @@ ROBOTICS EXPLORATION PROTOCOL
                         │
                         ▼
                  ┌──────────────┐
-                 │   ESP32 /   │
+                 │    ESP32 /   │
                  │ MICROCONTROL │
                  └──────┬───────┘
                         │
@@ -549,7 +549,7 @@ My professional experience spans **data analytics, application development, web 
 
 ```text
 ┌─────────────────────────────────────────────────────────────────┐
-│                         CORE DIRECTION                           │
+│                         CORE DIRECTION                          │
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
 │  DATA ANALYTICS                                                 │
