@@ -539,8 +539,7 @@ My professional experience spans **data analytics, application development, web 
 
 <div align="center">
 
-[<img src="[https://raw.githubusercontent.com/thenabinamallik/thenabinamallik/output/github-contribution-grid-snake-dark.sv](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)g" alt="Contribution Snake"/>](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
 </div>
 
 ---
