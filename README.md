@@ -315,36 +315,6 @@ My professional experience spans **data analytics, application development, web 
 
 ---
 
-# `> career_signal`
-
-```text
-┌─────────────────────────────────────────────────────────────────┐
-│                         CORE DIRECTION                          │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  DATA ANALYTICS                                                 │
-│       │                                                         │
-│       ├──────────────► AI / GENERATIVE AI                       │
-│       │                       │                                 │
-│       │                       ▼                                 │
-│       │                 INTELLIGENT SYSTEMS                     │
-│       │                       │                                 │
-│       ▼                       ▼                                 │
-│  SOFTWARE ───────────────► IoT / EMBEDDED                       │
-│                               │                                 │
-│                               ▼                                 │
-│                           ROBOTICS                              │
-│                               │                                 │
-│                               ▼                                 │
-│                         AUTOMATION                              │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-I am open to opportunities where I can contribute across **technical and non-technical environments**, including software development, data analytics, application development, AI-enabled applications, IoT, IT operations, technical support, and technology-driven business workflows.
-
----
-
 # `> certifications`
 
 ```text
